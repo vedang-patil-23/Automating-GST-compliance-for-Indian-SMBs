@@ -39,7 +39,7 @@ AGIRFA is a web application designed to automate the process of GST invoice reco
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/agirfa-public.git
+   git clone https://github.com/vedang-patil-23/agirfa-public.git
    cd agirfa-public
    ```
 
