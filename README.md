@@ -1,4 +1,4 @@
-# GST Invoice Reconciliation & Filing Assistant (AGIRFA)
+# Automated GST Invoice Reconciliation & Filing Assistant (AGIRFA)
 
 **Note: This is a simplified, public version of the application. Sensitive information and proprietary logic have been removed.**
 
